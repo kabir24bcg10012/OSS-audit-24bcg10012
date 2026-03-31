@@ -2,7 +2,7 @@
 
 ## The Open Source Audit — Git
 
-**Student:** Kay  
+**Student:** Kabir Verma
 **Course:** Open Source Software (NGMC) | VIT Bhopal University  
 **Chosen Software:** Git (Version Control System) — Licensed under GPL v2  
 
